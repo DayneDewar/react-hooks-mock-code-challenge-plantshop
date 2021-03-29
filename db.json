@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "bonsai",
+      "image": "https://i.etsystatic.com/17057214/r/il/3fb9ff/2570987170/il_1588xN.2570987170_5a2x.jpg",
+      "price": "10.25",
+      "id": 8
+    },
+    {
+      "name": "Wisteria",
+      "image": "https://i.etsystatic.com/17057214/r/il/c2981b/1581764404/il_1588xN.1581764404_4waq.jpg",
+      "price": "60",
+      "id": 9
+    },
+    {
+      "name": "Weeping Willow",
+      "image": "https://i.etsystatic.com/17057214/r/il/98a631/2474087074/il_1588xN.2474087074_c4ox.jpg",
+      "price": "35",
+      "id": 10
     }
   ]
 }
